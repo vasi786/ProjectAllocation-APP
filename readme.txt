@@ -44,8 +44,8 @@ Center.
 
 4. This app will not work unless you specify a xlsx file with name "prof_list-keywords.xlsx". This excel file should contain the professor name and a keyword assigned to that professor. 
 
-Let's say a professor name as Dr. Adupa Yakaiah,   then the keyword can be "Yakaiah". 
+Let's say a professor name as Dr. Adupa Yakaiah,   then a possible keyword can be "Yakaiah". 
 
-For more information contact adupa@iitg.ac.in or adupavasista@gmail.com
+For more information and reporting the bugs contact adupa@iitg.ac.in or adupavasista@gmail.com
 
 
