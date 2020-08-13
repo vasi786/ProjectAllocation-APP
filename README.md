@@ -8,7 +8,8 @@ Another Interesting feature in the app is that the user can initially specify ma
 
 You can look at the source code [here](https://github.com/vasi786/ProjectAllocation-SourceCode)
 
-
+# Algorithm
+![](https://github.com/vasi786/ProjectAllocation-SourceCode/blob/master/Images/outputname-1.png)
 # App Preview
 
 ![](https://github.com/vasi786/ProjectAllocation-SourceCode/blob/master/Images/Project%20Allocation.png)
